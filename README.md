@@ -2,12 +2,17 @@
 
 I'm a Front-End Engineer that loves to make accessible experiences for users.
 
-## 📫 Get in Touch
+## 📫 Get in touch
 
 - Web: [azinasili.com][1]
 - LinkedIn: [linkedin.com/in/azinasili][2]
 - Twitter: [twitter.com/azinasili][3]
 - Email: [hello@azinasili.com][4]
+
+
+## 📑 Follow what I'm reading
+
+<a href="https://app.daily.dev/azinasili"><img src="https://api.daily.dev/devcards/f66280a561934e76b433a24155b3a4d0.png?r=qs5" width="256" alt="Azin Asili's Dev Card"/></a>
 
 [1]:
   https://azinasili.com/?utm_source=github.com&utm_medium=gh-profile-azinasili&utm_campaign=azinasili

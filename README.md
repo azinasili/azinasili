@@ -1,6 +1,6 @@
 # Hi there, I'm <a href="https://azinasili.com" target="_blank" rel="noreferrer">Azin Asili</a> 👋
 
-I'm a Front-End Engineer that loves to make accessible experiences for users.
+I'm an expert at centering `<div>` that loves to make accessible experiences for users.
 
 ## 📫 Get in touch
 
